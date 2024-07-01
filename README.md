@@ -1,17 +1,17 @@
-# 💖✨ Welcome to Indigo's GitHub Profile! ✨💖
+# ✨ Welcome to Indigo's GitHub Profile! ✨
 
 ![Followers](https://img.shields.io/github/followers/tealblu?color=ff69b4&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/tealblu?color=ff69b4&style=for-the-badge)
 
-## 🌸 About Me 🌸
+## About Me
 
 Hi there! I'm **Indigo** (aka **tealblu** on GitHub) and I'm so happy you stopped by! I'm passionate about coding, creating innovative and delightful solutions, and learning new technologies. Here's a little more about me:
 
 - 💻 **Full-Stack Developer** with a flair for **Data-driven Design**
 - 🎨 Lover of **Human-centered** design
-- 🐱 **Cat Mom** to my adorable baby, Binx
+- 🐱 **Cat parent** to my baby, Binx
 - 🌟 Enthusiast of **Open Source Projects** and contributing to the community
 
-## 🎀 My Skills 🎀
+## My Skills
 
 - **Languages/Frameworks:** C++, C# (.NET, .NET Core, MVC, EFC), Java, PHP (LAMP), JavaScript, Google Apps Script, HTML, CSS, SQL (MySql, MSSQL), Python (OpenCV, Matplotlib, Eigen), MATLAB, PowerShell, Prolog, OCaml
 - **Databases:** MySQL, Microsoft SQL Server, DataLog
@@ -28,4 +28,4 @@ Feel free to check out my projects and get in touch:
 
 ---
 
-Thank you for visiting!✨🌸💖
+Thank you for visiting!✨
