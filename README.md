@@ -4,11 +4,11 @@
 
 ## About Me
 
-Hi there! I'm **Indigo** (aka **tealblu** on GitHub) and I'm so happy you stopped by! I'm passionate about coding, creating innovative and delightful solutions, and learning new technologies. Here's a little more about me:
+Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about coding, creating innovative and delightful solutions, and learning new technologies. Here's a little more about me:
 
-- 💻 **Full-Stack Developer** with a flair for **Data-driven Design**
+- 💻 **Full-Stack Developer**
 - 🎨 Lover of **Human-centered** design
-- 🐱 **Cat parent** to my baby, Binx
+- 🐱 **Cat parent** to my amazing Binx
 - 🌟 Enthusiast of **Open Source Projects** and contributing to the community
 
 ## My Skills
