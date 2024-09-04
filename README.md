@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about coding, creating innovative and delightful solutions, and learning new technologies. Here's a little more about me:
+Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about coding, creating innovative and elegant solutions, and learning new technologies. Here's a little more about me:
 
 - 💻 **Full-Stack Developer**
 - 🎨 Lover of **Human-centered** design
