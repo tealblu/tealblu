@@ -7,9 +7,9 @@
 Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about coding, creating innovative and elegant solutions, and learning new technologies. Here's a little more about me:
 
 - 💻 **Full-Stack Developer**
-- 🎨 Lover of **Human-centered** design
-- 🐱 **Cat parent** to my amazing Binx
-- 🌟 Enthusiast of **Open Source Projects** and contributing to the community
+- 🎨 Lover of **Human-centered design**
+- 🐱 **Cat mom** to my amazing Binx
+- 🌟 Enthusiast of **Free and Open Source Projects**
 
 ## My Skills
 
