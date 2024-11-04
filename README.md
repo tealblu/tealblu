@@ -13,7 +13,7 @@ Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about codin
 
 ## My Skills
 
-- **Languages/Frameworks:** C++, C# (.NET, MVC, EFC, WinForms, WPF, Avalonia), Java, PHP (LAMP), JavaScript, Google Apps Script, HTML, CSS, SQL (MySql, MSSQL), Python (OpenCV, Matplotlib, Eigen), MATLAB, PowerShell, Prolog, OCaml
+- **Languages/Frameworks:** C++, C# (.NET, MVC, EFC, WinForms, WPF, Avalonia), Java, PHP (LAMP), JavaScript, TypeScript, Google Apps Script, HTML, CSS, SQL (MySql, T-SQL), Python (OpenCV, Matplotlib, Eigen), MATLAB, PowerShell, Prolog, OCaml
 - **Databases:** MySQL, Microsoft SQL Server, DataLog
 - **Tooling:** Git, GitLab, Azure DevOps, Postman, Visual Studio, IntelliJ IDEA
 - **UI Frameworks:** Material UI, TkInter, niceGUI, Qt, Avalonia
