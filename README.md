@@ -4,12 +4,16 @@
 
 ## About Me
 
-Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about coding, creating innovative and elegant solutions, and learning new technologies. Here's a little more about me:
+Hi there, I'm **Indigo** (**tealblu** on GitHub)! I'm passionate about programming, creating innovative, elegant solutions, and learning new technologies. Here's a little more about me:
 
 - 💻 **Full-Stack Developer**
 - 🎨 Lover of **Human-centered design**
 - 🐱 **Cat mom** to my amazing Binx
 - 🌟 Enthusiast of **Free and Open Source Projects**
+
+For more info:
+- 🌐 [My Website](https://indi.bio) - A digital garden of my work and thoughts
+- 💼 [My Resume](https://indi.bio/about) - My professional journey
 
 ## My Skills
 
@@ -22,8 +26,6 @@ Hi there, I'm **Indigo** (aka **tealblu** on GitHub)! I'm passionate about codin
 ## 💫 Let's Connect 💫
 
 Feel free to check out my projects and get in touch:
-- 🌐 [My Digital Garden](https://indi.bio) - A showcase of my work and thoughts
-- 💼 [My Resume](https://indi.bio/about) - My professional journey
 - 📫 [Email Me](mailto:indiharts@proton.me) - Let's collaborate!
 
 ---
