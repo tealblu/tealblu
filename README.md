@@ -1,10 +1,10 @@
-# ✨ Welcome to Indigo's GitHub Profile! ✨
+# ✨ Indigo's GitHub ✨
 
 ![Followers](https://img.shields.io/github/followers/tealblu?color=ff69b4&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/tealblu?color=ff69b4&style=for-the-badge)
 
 ## About Me
 
-Hi there, I'm **Indigo** (**tealblu** on GitHub)! I'm passionate about programming, creating innovative, elegant solutions, and learning new technologies. Here's a little more about me:
+Hi there, I'm **Indigo** (**tealblu** on GitHub)! I'm passionate about technology, code, design, and more. Here's a little more about me:
 
 - 💻 **Full-Stack Developer**
 - 🎨 Lover of **Human-centered design**
