@@ -17,9 +17,9 @@ For more info:
 
 ## My Skills
 
-- **Languages/Frameworks:** C++, C# (.NET, MVC, EFC, WinForms, WPF, Avalonia), Java, PHP (LAMP), JavaScript, TypeScript, Google Apps Script, HTML, CSS, SQL (MySql, T-SQL), Python (OpenCV, Matplotlib, Eigen), MATLAB, PowerShell, Prolog, OCaml
-- **Databases:** MySQL, Microsoft SQL Server, DataLog
-- **Tooling:** Git, GitLab, Azure DevOps, Postman, Visual Studio, IntelliJ IDEA
+- **Languages/Frameworks:** C# (.NET, MVC, EFC, WinForms, WPF, Avalonia), C++, Java, PHP (LAMP), JavaScript, TypeScript, Google Apps Script, HTML, CSS, SQL (MySql, T-SQL, SQLite), Python (OpenCV, Matplotlib, Eigen), MATLAB, PowerShell, ZSH, Fish, Bash, Prolog, OCaml
+- **Databases:** MySQL, SQLite, Microsoft SQL Server, DataLog, LINQ
+- **Tooling:** Git, GitLab, Azure DevOps, Postman, Visual Studio, IntelliJ IDEA, Velopack
 - **UI Frameworks:** Material UI, TkInter, niceGUI, Qt, Avalonia
 - **Other:** Scrum, Agile methodologies, Amazon Web Services (EC2, RDS, Elastic Beanstalk), Stratus Vision SPIN/SPINDLE, Logseq
 
